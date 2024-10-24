@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Kensley Oliveira and I'm a Chemical Enginner and Computer Science, from Monte Carmelo, MG - Brazil</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me </h2>
 
 ###
 
