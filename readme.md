@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me </h2>
+<h2 align="left"> I have 28 years of experience in processes research and development on the metallurgical and mining industries. I also have a master's degree in heterogeneous catalysis, with work developed with Petrobras and Oxiteno. I have 6 patents in process and my research lines are the areas are: Synthetic diesel production, niobium oxide production process for ceramic applications and rare earth extraction and purification processes. Now, I'm studying computer science. </h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Computer Science<br>🎯 Goals: Development of industrial process control software<br>🎲 Fun fact: I don't have </p>
 
 ###
 
